@@ -25,4 +25,3 @@ https://www.codejava.net/frameworks/spring-boot/user-registration-and-login-tuto
 
 https://www.javainuse.com/spring/boot_security_jdbc_authentication
 
-a
